@@ -212,12 +212,16 @@ Incoming mail is delivered as needed. Outgoing mail should be taken to the mailr
 
 For incoming USPS mail, please use this address (otherwise USPS may return your mail as undeliverable):
 
-    U.S. General Services Administration
-    50 United Nations Plaza
-    Suite 207, Room #5685
-    San Francisco, CA 94102
+> U.S. General Services Administration<br/>
+> 50 United Nations Plaza<br/>
+> Suite 207, Room #5685<br/>
+> San Francisco, CA 94102
 
-For FedEx and UPS, please use the address as usual: 50 United Nations Plaza, Suite 5685, San Francisco, CA 94102.
+For FedEx and UPS, please use the address as usual: 
+
+> 50 United Nations Plaza<br/>
+> Suite 5685<br/>
+> San Francisco, CA 94102
 
 ## <a id="amenities">Amenities</a>
 
@@ -249,36 +253,9 @@ The Health Unit also includes an all-gender bathroom.
 
 ### <a id="helpful-contacts">Helpful contacts</a>
 
-You can contact Building Services at 415-522-2746. Kevin, who works in Building Services, is really helpful and knowledgable.
-
-<div class="h-card">
-  <span class="p-name"><strong>Jonathan Yee</strong></span> <br />
-  <span class="p-job-title">Building Manager</span> <br />
-  <span class="p-note">Assistant: Rachel Almeida. Jonathan can grant building access if you fill out the right forms, and he encourages us to call him if we have physical problems with the space.</span> <br />
-  <a    class="p-tel"   href="tel:4155222797">415-522-2797</a>
-  <a    class="p-email" href="mailto:jonathan.d.yee@gsa.gov">jonathan.d.yee@gsa.gov</a>
-</div>
-<div class="h-card">
-  <span class="p-name"><strong>Brenda Dang</strong></span><br />
-  <span class="p-job-title">Federal Realty Specialist</span><br />
-  <a    class="p-tel"   href="tel:4155523196">415-552-3196</a>
-  <a    class="p-email" href="mailto:brenda.dang@gsa.gov">brenda.dang@gsa.gov</a>
-</div>
-<div class="h-card">
-  <span class="p-name"><strong>Kathy Thompson</strong></span><br />
-  <span class="p-job-title">Human Resources Director</span><br />
-  <span class="p-org">Office of Human Resources Management (CPK)</span><br />
-  <span class="p-street-address">50 United Nations Plaza</span>
-  <span class="p-extended-address">Room 4254</span><br />
-  <span class="p-locality">San Francisco</span>
-  <span class="p-region"><abbr title="California">CA</abbr></span> 
-  <span class="p-postal-code">94101</span><br />
-  <a    class="p-tel"   href="tel:4155222662">415-522-2662 (work)</a>
-  <a    class="p-tel"   href="tel:4155333857">415-533-3857 (fax)</a>
-<a    class="p-email" href="mailto:kathy.thompson@gsa.gov">kathy.thompson@gsa.gov</a>
-</div>
-
-* [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF. Office - CDWAAB
+* [50 UN Plaza Building Management](http://www.gsa.gov/portal/content/200391), including how to contact our Building Manager and Building Service Desk.
+* [50 UN Plaza Building Directory](http://www.gsa.gov/portal/category/107011), including additional helpful phone numbers.
+* [Lyvette Jones](mailto:lyvette.jones@gsa.gov), handles transit benefits in SF.
 * [Public Health Clinic](http://www.sfcdcp.org/aitc.html) - 101 Grove St.
 * [18F SF Mailing list](https://groups.google.com/a/gsa.gov/forum/?hl=en#!forum/18f-sf)
 * [50 UN Plaza Mailing list](https://groups.google.com/a/gsa.gov/forum/#!forum/50unp)

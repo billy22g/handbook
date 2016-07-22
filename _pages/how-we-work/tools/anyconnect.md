@@ -15,7 +15,7 @@ AnyConnect is a VPN client that we use to connect to GSA's intranet.
 
 1. Make sure you are not connected to a GSA network, otherwise the connection will fail.
 2. Launch the Cisco AnyConnect Secure Mobility Client.
-3. Enter `vpn.gsa.gov/adcontractors` or `vpn.gsa.gov/gfeotp1` in the Site Name field.
+3. Enter `vpn.gsa.gov/adcontractors` in the Site Name field.
 4. Click **Connect**.
 5. Sign in with your ENT username and password. Your username is your full name, including your middle initial.
 6. You'll be prompted for an answer or token. Enter the OTP code from the [SecureAuth Authenticate](https://itunes.apple.com/us/app/secureauth-otp/id615536686?mt=8) app or [otp.gsa.gov](https://otp.gsa.gov).

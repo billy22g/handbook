@@ -80,7 +80,7 @@ You may also digitally scan GSA files to create an electronic document, which ca
 - Detailed employees shall enter into telework agreements with their detailed supervisors.
 - Telework is not a substitute for dependent care (such as child care or elder care).
 - Telework is not a substitute for sick leave.
-- While teleworking, you are bound by the [Standards of Ethical Conduct](https://github.com/18F/handbook/blob/18f-pages-internal/pdfs/standard-ethical-conduct.pdf) while working at the alternative worksite and using government equipment.
+- While teleworking, you are bound by the [Standards of Ethical Conduct](/pdfs/standard-ethical-conduct.pdf) while working at the alternative worksite and using government equipment.
 - Teleworking is a privilege and not an entitlement.
 
 

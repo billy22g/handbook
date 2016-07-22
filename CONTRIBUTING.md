@@ -1,7 +1,7 @@
 
 ## Where Contributions Go
 
-Submit contributions to https://github.com/18F/handbook as a pull request. Please open a branch that is not `18f-pages-internal`, `staging`, or `master.` A member of the [handbook team](https://18f.slack.com/messages/18f-handbook) will check your request, offer comments if necessary, and then add it to the repo.
+Submit contributions to https://github.com/18F/handbook as a pull request. A member of the [handbook team](https://18f.slack.com/messages/18f-handbook) will check your request, offer comments if necessary, and then add it to the repo.
 
 If you’re not comfortable submitting a pull request, feel free to [open an issue](https://github.com/18F/handbook/issues/new) with your suggestion or reach out in [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding).
 
@@ -20,4 +20,3 @@ Some information in the Handbook is available only for people within the 18F org
 This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 All contributions to this project will be released under the CC0 dedication. By submitting a pull request, you are agreeing to comply with this waiver of copyright interest.
-

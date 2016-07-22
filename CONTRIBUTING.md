@@ -9,12 +9,6 @@ If you’re not comfortable submitting a pull request, feel free to [open an iss
 
 This will be fleshed out in future iterations. For now, keep in mind that content appearing in the handbook should exemplify [best practices with regard to content](https://pages.18f.gov/content-guide/). Handbook content should be welcoming, personable, and free from jargon.
 
-## Private information
-
-Some information in the Handbook is available only for people within the 18F organization. Content creators should put information that needs to be private in the following format:
-
-`{% if site.internal %}` CONTENT `{% endif %}`
-
 ## Public domain
 
 This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).

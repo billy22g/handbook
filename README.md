@@ -1,10 +1,10 @@
 18F Handbook
 ========================
 
-The [18F Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our organization. This is a _living_ document and will be updated regularly. If you have questions, comments, or suggestions, please
-[open an issue](https://github.com/18F/handbook/issues). If you want to _add_ content to the Handbook, please ask in [#18f-handbook](https://18f.slack.com/messages/18f-handbook) on Slack or add an :evergreen-tree: to a message in Slack.
+The [18F Handbook](https://handbook.18f.gov) documents the mission, values, structures, policies, tools, and guides that shape our team. This is a _living_ document and is updated regularly. If you have questions, comments, or suggestions, please
+[open an issue](https://github.com/18F/handbook/issues). If you want to add content to the Handbook, please submit a pull request or ask in [#18f-handbook](https://18f.slack.com/messages/18f-handbook).
 
-Note: If you're changing any kind of process, please let #wg-onboarding know so we can keep the handbook, new hire messages, and checklists up to date.
+Note: If you're changing any kind of process, please let [#wg-onboarding](https://18f.slack.com/messages/wg-onboarding) know so we can keep the handbook, new hire messages, and checklists up to date.
 
 # Development
 
@@ -15,10 +15,10 @@ bundle install
 ./go serve
 ```
 
-## Travel Guide Development
+## Travel guide development
 To add additional images:
 * Add an image to the `images/travel` directory
-* Link the image on the travel page, with folding HTML <img src="/images/travel/filename.png" class="travel-guide-hide">
+* Link the image on the travel page, with folding HTML: `<img src="/images/travel/filename.png" class="travel-guide-hide">`
 * A show/hide link will automatically be created.
 
 To create a new page:

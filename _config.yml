@@ -14,7 +14,7 @@ slack:
 github:
   organization: 18F
   repository: handbook
-  default_branch: 18f-pages-internal
+  default_branch: master
 
 exclude:
 - CONTRIBUTING.md

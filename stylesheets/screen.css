@@ -1135,33 +1135,22 @@ a[id]{
 }
 
 @media screen and (min-width: 711.11px){
-	.layout-table-of-contents .wrapper ol li.tools{ clear: both; }
+	.toc-nav-children {
+  	clear: both;
+  	-webkit-column-count: 2;
+  	-moz-column-count: 2;
+  	column-count: 2;
+  }
 
-	.layout-table-of-contents .wrapper ol li.classes > ol,
-	.layout-table-of-contents .wrapper ol li.equipment  > ol,
-	.layout-table-of-contents .wrapper ol li.networks  > ol,
-	.layout-table-of-contents .wrapper ol li.offices  > ol,
-	.layout-table-of-contents .wrapper ol h1#policies + p + ol,
-	.layout-table-of-contents .wrapper ol li.teams  > ol,
-	.layout-table-of-contents .wrapper ol li.tools  > ol{
-	clear: both;
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
-	column-count: 2;
-}
+  .toc-nav-child-with-children {
+    column-span: all;
+  }
 
-	.layout-table-of-contents .wrapper ol li.classes::after,
-	.layout-table-of-contents .wrapper ol li.equipment::after,
-	.layout-table-of-contents .wrapper ol li.networks::after,
-	.layout-table-of-contents .wrapper ol li.offices::after,
-	.layout-table-of-contents .wrapper ol li.overview::after,
-	.layout-table-of-contents .wrapper ol li.policies::after,
-	.layout-table-of-contents .wrapper ol li.teams::after,
-	.layout-table-of-contents .wrapper ol li.tools::after{
-		display: table;
-		content: "";
-		clear: both;
-	}
+  .toc-nav-grandchildren {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+  }
 }
 
 .layout-table-of-contents ol h1{

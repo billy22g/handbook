@@ -2,7 +2,7 @@
 title: San Francisco
 ---
 <div class="table-wrapper">
-  <table class="table-office-metadata tablesaw-stack">
+  <table class="table-office-metadata">
     <tbody>
       <tr>
         <td class="col-key"><strong>Location</strong></td>

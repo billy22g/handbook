@@ -2,7 +2,7 @@
 title: Distributed
 ---
 <div class="table-wrapper">
-  <table class="table-office-metadata tablesaw-stack">
+  <table class="table-office-metadata">
     <tbody>
       <tr>
         <td class="col-key"><strong>Points&nbsp;of&nbsp;contact</strong></td>

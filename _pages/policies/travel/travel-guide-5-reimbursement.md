@@ -55,7 +55,7 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 
 2. Enter your expenses based on the list below and add receipts as necessary.
 
-    * [Airfare or Amtrak tickets purchased through Concur](#airfare-and-rail)
+    * [Airfare or Amtrak tickets purchased through Concur](#airfare-or-rail)
 
     * [Meals and Incidental Expenses](#meals-and-incidental-expenses)
 
@@ -71,7 +71,7 @@ Now you need to make sure each of your expenses is accounted for. This step is a
 
 
 #### Airfare or Rail
-* Did you book airfare or rail outside of Concur? [Yes](#air-outside-concur)
+* Did you book airfare or rail outside of Concur? [Yes](#air-outside-of-concur)
 
 * Airfare is already on the **Expenses & Receipts** Tab under the **Expense List**
 The blue icon under **Source** means that it was paid for via Concur. No further action is needed.
@@ -82,7 +82,7 @@ The blue icon under **Source** means that it was paid for via Concur. No further
 
 * **The allowance for Meals and Incidental Expenses (M&IE) is a flat rate given to a traveler regardless of what they actually spent.** No receipts or justification is needed to receive M&IE.
 
-* If you need to cut out meals and incidental expenses for some days (for example, a weekend of personal time spent in DC), the [Airfare and Rail](#airfare-and-rail) section.
+* If you need to cut out meals and incidental expenses for some days (for example, a weekend of personal time spent in DC), the [Airfare and Rail](#airfare-or-rail) section.
 
 #### Local Transportation
 This is also a general description of how to add an expense.

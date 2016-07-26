@@ -24,7 +24,7 @@ You’ll get a number like **E000xxxxx** in the reply, which is important for th
 
 6. Traveling in less than 2 weeks?
 
-    * [Yes - Update your Concur Profile](/first-time-travel-concur-profile)
+    * [Yes - Update your Concur Profile](/first-time-travel-complete-concur-profile)
 
     * [No - Find out how to Get a Travel Card](/first-time-travel-travel-card)
 

@@ -63,7 +63,7 @@ Go [here](https://adportal.vnoc1.com). You'll need your username, which should b
 
 ## Populate your contact list
 
-Only [registered accounts](#how-do-i-get-an-acano-account) can populate their contact lists. After you log in:
+Only [registered accounts](#get-an-acano-account) can populate their contact lists. After you log in:
 
 1. Go to **People**.
 2. Click **+Contact**.
@@ -73,7 +73,7 @@ Only [registered accounts](#how-do-i-get-an-acano-account) can populate their co
 
 ## Create your own coSpace
 
-Only [registered accounts](#how-do-i-create-my-own-cospace) can create their own coSpaces. After you log in:
+Only [registered accounts](#create-your-own-cospace) can create their own coSpaces. After you log in:
 
 1. Click the **coSpace** icon at the top of the screen.
 2. Click **+coSpace** in the panel on the left side.
@@ -82,7 +82,7 @@ Only [registered accounts](#how-do-i-create-my-own-cospace) can create their own
 
 ## Use Acano with a Video TeleConference (VTC) unit
 
-You will need an [Acano account](#how-do-i-get-an-acano-account) or have access to someone else's Acano account to do this.
+You will need an [Acano account](#get-an-acano-account) or have access to someone else's Acano account to do this.
 
 ### Find the SIP address
 
@@ -114,7 +114,7 @@ You will need an [Acano account](#how-do-i-get-an-acano-account) or have access 
 ## Run an all-hands meeting
 
 1. Find the connection information in the calendar invite.
-1. Make sure you have an [Acano account](#how-do-i-get-an-acano-account).
+1. Make sure you have an [Acano account](#get-an-acano-account).
 2. A few days before the meeting, ask [Leah Gitter](https://18f.slack.com/messages/@leahgitter) to add you to the All-Hands Cospace. This will give you administrator access to the virtual room.
 3. Launch the Acano app and log in.
 4. Click **coSpaces** and choose **Tuesday All-Hands**.

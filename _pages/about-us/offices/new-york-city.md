@@ -103,7 +103,7 @@ Badge/fingerprints are not needed for access to Civic Hall. Information on getti
 
 ### <a id="after-hours"></a>Access the building after hours?
 
-Civic Hall is open 8:30am-7pm Monday-Friday, 10am-5:00pm Saturday, and 12pm-5:00pm Sunday. There is no access outside these times.
+Civic Hall is open 8:30am-7pm Monday-Friday, 10am-5:00pm Saturday, and 12pm-5:00pm Sunday. There is no access outside these times. Note: Civic Hall is closed on weekends from Memorial Day through Labor Day
 
 ### <a id="book-rooms"></a>Book rooms for meetings?
 
@@ -161,6 +161,10 @@ Register online at [https://ucard.chase.com/](https://ucard.chase.com/). Despite
 ### Use your card
 
 Although it is technically a debit card, when you put the card in an MTA machine, select `Credit Card` as your payment method, and use the same office ZIP code. The balance resets on the 10th of every month. The new balance is intended to cover the following month&rsquo;s transit, but you can use it at any time.
+
+## <a id="nyc-events"></a>NYC Events
+
+We have a team breakfast every Tuesday morning in the Civic Hall cafe (BYOB - bring your own breakfast) and a happy hour outing the first Thursday of every month. Both are optional, but lots of fun. Ask to be added to the invite in #nyc.
 
 
 ## <a id="who-works-here"></a>Who works here?

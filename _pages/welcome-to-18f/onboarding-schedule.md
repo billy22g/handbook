@@ -47,7 +47,7 @@ In your second week, you’ll participate in unconscious bias training, learn ho
 * [Professional development, conferences, speaking opportunities, and IDPs](https://handbook.18f.gov/professional-development-and-training) ([Description](https://handbook.18f.gov/classes/#professional-development)), Pia Scott
 
 ### Friday
-* [Welcome from Aaron](https://handbook.18f.gov/welcome-from-phaedra-and-aaron) ([Description](https://handbook.18f.gov/classes/#meet-aaron-phaedra)), Aaron Snow
+* [Welcome from Aaron](https://handbook.18f.gov/welcome-from-aaron/) ([Description](https://handbook.18f.gov/classes/#meet-aaron-phaedra)), Aaron Snow
 
 ## <a name="week-3"></a>Week 3
 Your third week of training is relatively short. You’ll learn about accessibility and the tools we use to run successful meetings (many of which you’ve probably seen by now).

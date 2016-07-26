@@ -118,8 +118,12 @@ document.addEventListener('DOMContentLoaded', function() {
     // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
       '18f.slack.com',
+      'anywhere.gsa.gov',
+      'bookit.gsa.gov',
+      'calendar.gsa.gov',
       'docs.google.com',
       'drive.google.com',
+      'email.gsa.gov',
       'github.com/18F/Accessibility_Reviews',
       'github.com/18F/blog-drafts',
       'github.com/18F/codereviews',
@@ -128,8 +132,13 @@ document.addEventListener('DOMContentLoaded', function() {
       'github.com/18F/staffing-and-resources',
       'github.com/18F/team-api.18f.gov',
       'github.com/18F/writing-lab',
+      'gkey.gsa.gov',
       'gsa.my.salesforce.com',
-      'insite.gsa.gov'
+      'hub.18f.gov',
+      'insite.gsa.gov',
+      'mail.gsa.gov',
+      'pages-internal.18f.gov',
+      'tock.18f.gov'
     ]
   });
 }, false );

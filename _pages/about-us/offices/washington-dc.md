@@ -127,14 +127,9 @@ If you're expecting a small group of US citizens (fewer than 15 or so), no advan
 
 If you're expecting a large group, or if the group includes non-US citizens, you should give security advance notice.
 
-### <a id="access-a-printer">Access a printer? </a>
+### <a id="access-a-printer">Access a printer?</a>
 
-To set up a printer on a Mac, go to System Preferences and find Printers and Scanners. Press the `+` button and then click on the IP tab. Type `192.168.24.107` or `192.168.25.57` in the address line and click `Add`.
-
-Printer location: Printers are located in 4400 infill (Room 4231)
-
-> The printers will sometimes say there&rsquo;s a paper jam if you&rsquo;re on the `gsa-guest` wifi, when there isn&rsquo;t a paper jam.  If you switch to `gsa-wireless`, it will magically start working.
-
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
 
 ### <a id="get-on-the">Get on the wireless? </a>
 

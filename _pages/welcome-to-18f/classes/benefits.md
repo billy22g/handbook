@@ -99,29 +99,6 @@ An employee may use annual leave for vacations, rest, and relaxation, and person
 
 The maximum annual leave that can be carried over is 240 hours, and if you&rsquo;ve transferred to 18F from another federal agency, your accrued annual leave will transfer with you. (It may take between two and four pay periods before Employee Express will display your accrued annual leave.) More information is available on [OPM&rsquo;s Pay and Leave website](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/annual-leave/).
 
-### Overtime and comp-time policy
-
-Non-billable work is the _cultural_ lifeblood of 18F. If you don't have time for non-billable work as a consequence of billable work, our partner agencies should compensate us for the work you&rsquo;ll need to do above and beyond your normal station. This is done via **comp time**. [Comp time](http://www.opm.gov/policy-data-oversight/pay-leave/pay-administration/fact-sheets/compensatory-time-off/) allows the government to compensate staff who occasionally work greater than their regular tour of duty (typically 40 hours a week). Comp time is not an increase to your paycheck; it&rsquo;s time you can use as paid time off.
-
-An hour of comp time is equal to an hour of [leave](https://docs.google.com/document/d/1LTN9HNrAxpmtFpApoJtiWy_6wdcXhY9ws-dGUD72Md8/edit#heading=h.e12p9mric14l). Like leave, comp hours are paid out when a person leaves GSA &mdash; even if that person is transferring to another federal job.
-
-The process for requesting comp time differs based on the kind of work you&rsquo;re doing: if you need to work beyond your station for work related to 18F and/or GSA, you will need prior approval from your supervisor. This should be in writing (email or Slack) and should state that you are authorized to work up to a certain amount of additional hours beyond your regular tour of duty and can expect to receive comp time in return.
-
-If you are requesting comp time on client-facing work, it&rsquo;s critical that you receive client approval beforehand. First ask your Product Lead to agree that comp time is needed. They&rsquo;ll work with our partner agency to agree to an estimate, &ldquo;not to exceed&rdquo; budget for comp time. Once approved, you&rsquo;ll need to ask your supervisor for approval. Since your Product Lead will most likely be a different person than your supervisor, this means you will need to get two approvals for comp time spent on client work.
-
-Whether you request comp time for non-billable or billable work, be sure to put your request for comp time in [ALOHA](http://aloha.gsa.gov/) before the end of the pay period. To do this:
-
-1. Ask your Product Lead and the partner Product Owner to agree that comp time is needed.
-1. Have the Product Owner agree to an estimate, which is not to exceed budget (not hours) for comp time.
-1. Ask your supervisor for approval.
-1. Log into ALOHA.
-1. Click Create My Overtime Request.
-1. Select your supervisor.
-1. Select a pay period.
-1. Select type `13 - Comp Time Earned`.
-1. Enter a task description and estimated hours.
-1. Click Submit.
-
 ### Donating leave
 
 Under the [Voluntary Leave Transfer Program](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/voluntary-leave-transfer-program/) (VLTP), a covered employee may donate annual leave directly to another employee who has a personal or family medical emergency and who has exhausted their available paid leave.

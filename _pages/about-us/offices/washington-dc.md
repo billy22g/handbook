@@ -92,7 +92,7 @@ When entering from the F Street entrance, continue straight past security down t
 
 ### <a id="enter-the-building">Enter the building for the first time? </a>
 
-Enter through the main building entrance on F Street, tell the security guard you&rsquo;re here and provide them with a photo ID. Later on in the day (or soon after) you will have the opportunity to pick up your official GSA ID Badge.
+Enter through the main building entrance on F Street, tell the security guard you&rsquo;re here and provide them with a photo ID. (Note that pocket knives with blades longer than 2½" are prohibited.) Later on in the day (or soon after) you will have the opportunity to pick up your official GSA ID Badge.
 
 
 ### <a id="enter-the-building-as-a-visitor">Enter the building if I&rsquo;m based in another office? </a>

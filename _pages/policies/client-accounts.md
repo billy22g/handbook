@@ -29,7 +29,7 @@ After this [de minimis](https://en.wikipedia.org/wiki/De_minimis) business devel
 
 ## The client reviews our work continuously
 
-18F is committed to remaining continuously accountable to its clients. The terms of all our IAAs explain that we confer with all our clients at least every two weeks, pursuant to [standard agile development methodology](standard agile development methodology). The client is therefore continuously apprised of the status of, and involved in deciding the future direction of, the project.
+18F is committed to remaining continuously accountable to its clients. The terms of all our IAAs explain that we confer with all our clients at least every two weeks, pursuant to standard agile development methodology. The client is therefore continuously apprised of the status of, and involved in deciding the future direction of, the project.
 
 Our IAAs also allow both 18F and the client to terminate the IAA unilaterally on 30 days’ notice, at which point the client can de-obligate any funds not billed prior to termination.
 

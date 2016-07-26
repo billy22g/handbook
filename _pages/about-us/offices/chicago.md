@@ -3,7 +3,7 @@ title: Chicago
 ---
 
 <div class="table-wrapper">
-  <table class="table-office-metadata tablesaw-stack">
+  <table class="table-office-metadata">
     <tbody>
       <tr>
         <td class="col-key"><strong>Location</strong></td>
@@ -170,9 +170,9 @@ _Bike Sticker_
 
 You will also need to get a bike sticker to place on your bike.  
 
-Go to the Metcalfe Field Office (77 W. Jackson Suite 441) to fill it out an application. 
+Go to the Metcalfe Field Office (77 W. Jackson Suite 441) to fill it out an application.
 
-(You can bring your completed Key Card Access application with you at the same time.) 
+(You can bring your completed Key Card Access application with you at the same time.)
 
 Note you will need your the following info to secure a bike sticker:
 
@@ -206,5 +206,3 @@ We keep a list of [people who work in the Chicago office](https://hub.18f.gov/lo
 ## <a id="potlucks"></a>Potlucks
 
 Have guests you want to bring to mingle with 18F?  Invite them to our monthly [potluck](https://www.eventbrite.com/e/18f-chicago-potluck-lunch-tickets-25357936270).  Potlucks are the first Tuesdays of each month (unless there is a holiday that Monday i.e. July 4 or Labor Day).
-
-

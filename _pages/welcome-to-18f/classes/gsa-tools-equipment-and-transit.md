@@ -76,7 +76,7 @@ Let&rsquo;s cover each of these tools in a bit more detail.
 
 In general, you should request leave ahead of time (although it is possible to request leave retroactively) and document any absences as soon as possible. If you&rsquo;re planning to take leave, please ask your project team(s) as well as your director or direct supervisor if it&rsquo;s okay. Once you get your supervisor's approval, sign in to ALOHA and submit your leave request (select your direct supervisor from the drop-down menu).
 
-After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office. 
+After you've created your leave request, add your planned absence to the shared Google calendar &ldquo;18F Out of Office&rdquo; &mdash; that way, everyone will know when you&rsquo;re going to be out of the office.
 
 We also ask that you update your Slack profile so that your name reads _FirstName LastName OOO (1/1 - 1/5)_ so that it's apparent, at a glance, that you're not at work.  Finally, please note that ALOHA is GSA&rsquo;s system and separate from Tock, which is 18F&rsquo;s own timekeeping system. If you&rsquo;re taking time off, you&rsquo;ll need to make sure you&rsquo;re accounted for in both.
 
@@ -136,7 +136,7 @@ If you&rsquo;re new to GSA, it&rsquo;ll take a few weeks for IT to set up your a
 3. After you activate your account, you can set up your login ID and password.
 4. Then, go back to the welcome email and click the second link to log in.
 
-Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in, call the Employee Express help desk at 1-888-353-9450 or email [eexhelp@opm.gov](eexhelp@opm.gov). They&rsquo;ll ask you for your name, date of birth, agency (OCSIT/18F), work email address, and request type (for example, `my SSN is not recognized` or `I need my login and password reset`).
+Once your account is setup, be sure to log in right away as that initial access expires within a few days. If you have trouble logging in, call the Employee Express help desk at 1-888-353-9450 or email [eexhelp@opm.gov](mailto:eexhelp@opm.gov). They&rsquo;ll ask you for your name, date of birth, agency (OCSIT/18F), work email address, and request type (for example, `my SSN is not recognized` or `I need my login and password reset`).
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 

@@ -119,9 +119,6 @@ navigation:
     - text: Product and open source
       url: intro-to-product-and-open-source/
       internal: true
-    - text: Project Intake 101
-      url: project-intake-101/
-      internal: true
     - text: Social media
       url: social-media/
       internal: true

@@ -72,7 +72,7 @@ i.e. Consulting, Client Services, etc.
 
 * **Only one accounting code?** Business Ops for the moment is strictly non-billable.
 
-* **No Codes?** You haven’t created any yet! [Add some codes](/travel-guide-step-accounting-codes/#create-accounting-codes).
+* **No Codes?** You haven’t created any yet! [Add some codes](/travel-guide-accounting-codes/#create-accounting-codes).
 
 #### 2. Select a code
 * Click on the blue label link of the code to add it to your authorization
@@ -124,7 +124,7 @@ Once you have been approved **look for an e-mail from Concur confirming the purc
 #### Whooo you are ready to go!
 
 You might want to take a look at what to expect while traveling!
-[Read about what to expect when you travel](#travel-guide-4-travel)
+[Read about what to expect when you travel](/travel-guide-4-travel/)
 
 
 *Got questions? Ask [#travel](https://18f.slack.com/messages/travel)*

@@ -143,7 +143,7 @@ If you need pens, paper, and other office supplies, there are a few items above 
 
 The printer by the IT Help Desk prints 8.5x11s in black and white or color. Its IP address is `172.30.53.137` (select "HP Jetdirect - Socket" as the protocol on OS X), and it's physically located on the 37th floor lobby.
 
-A fancier printer that can scan and print 11x17s is located on the 36th floor. Its IP address is `172.30.53.39`. To locate it, go to the hallway in front and to the right of the lobby. Type in the door code `101*`; the printer is in an open area to your left just before the end of the hall.
+A fancier printer that can scan and print 11x17s is located on the 36th floor. Its IP address is `172.30.53.39`. To locate it, go to the hallway in front and to the right of the lobby. 
 
 ## <a id="amenities"></a>Amenities
 

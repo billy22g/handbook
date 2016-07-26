@@ -328,9 +328,6 @@ navigation:
   - text: Overtime and comp-time policy
     url: overtime-and-comp-time/
     internal: true
-  - text: Project selection
-    url: project-selection/
-    internal: true
   - text: Term extensions
     url: term-extensions/
     internal: true

@@ -115,7 +115,7 @@ If the room that you want isn't coming up, that means it's probably been booked 
 
 ### <a id="wi-fi"></a>Connect to the Wi-Fi
 
-See [Networks](https://handbook.18f.gov/networks/) for details.
+See [Networks](/networks/) for details.
 
 ## <a id="where-are-the"></a>Where are the&hellip;?
 

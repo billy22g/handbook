@@ -35,7 +35,7 @@ The Talent team at 18F includes HR consultants, talent acquisition specialists, 
 
 ### <a id="structure">Structure</a>
 
-As per [the org chart](https://handbook.18f.gov/org-chart), 18F Talent is broken down into small "teams" focused on recruitment, administration, training and development, and product and process. Most of these "teams" are one or two individuals.  Also, a number of previously identified roles have yet to be filled, which means a few people are playing a few key roles during this time.
+As per [the org chart](/org-chart), 18F Talent is broken down into small "teams" focused on recruitment, administration, training and development, and product and process. Most of these "teams" are one or two individuals.  Also, a number of previously identified roles have yet to be filled, which means a few people are playing a few key roles during this time.
 
 - Executive assistant: Helps our directors with their administrative and logistical needs.
 - Data lead: Helps the Talent team report both internally and externally in a way that enables us to make smart business decisions.
@@ -112,6 +112,6 @@ Here are some common tools we use, how we use them, and how you can get access t
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn't there, you'll need to [ask in #infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 - **Hangouts:** Use it for all things video-conferencing.
-- **Mural.ly:**  Use it for research analysis and workshops. Get more info [here](https://handbook.18f.gov/murally/). Access is immediate, but you'll need to get permission from an admin to create rooms.
-- **Trello:** Use it for project management. Get more information on [our Trello page](https://handbook.18f.gov/trello). Access is immediate.
+- **Mural.ly:**  Use it for research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you'll need to get permission from an admin to create rooms.
+- **Trello:** Use it for project management. Get more information on [our Trello page](/trello). Access is immediate.
 - **Lever:** Our applicant tracking system. The Director of Talent will give you access.

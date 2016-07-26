@@ -2,7 +2,7 @@
 title: Welcome from Aaron
 ---
 
-_Hi! I&rsquo;m Aaron Snow. I&rsquo;m the Executive Director of 18F. Being the Executive Director basically means I help our [Talent Team](https://handbook.18f.gov/talent) hire great people like you, and then try to get everyone else &mdash; including myself &mdash; the heck out of your way._
+_Hi! I&rsquo;m Aaron Snow. I&rsquo;m the Executive Director of 18F. Being the Executive Director basically means I help our [Talent Team](/talent) hire great people like you, and then try to get everyone else &mdash; including myself &mdash; the heck out of your way._
 
 I was one of the co-founders of 18F, which got its start almost two years ago. At the time, I was a Presidential Innovation Fellow (PIF) working on &ldquo;Innovative Contracting Tools.&rdquo; Because the Fellowship is only six to 12 months long, our first thinking about 18F was simply to create a more permanent landing pad for PIF projects that needed more time (and support) to grow their roots or spread their wings. It was also a place for PIFs who wanted to stay in government and finish projects they couldn&rsquo;t finish during their fellowships.
 
@@ -23,7 +23,7 @@ The fact that we&rsquo;re funded by the ASF is the reason why we&rsquo;re a fee-
 ### <a id="18f-projects">18F projects</a>
 This will sound simplistic, but at the 20K-foot level, either we go out and try to get projects, or the project proposals come to us. We haven&rsquo;t done a lot of proactive business development in the past, in part because we&rsquo;ve been inundated with demand (more than 200 proposals in the last six months, including some terrific projects). That said, doing our own business development is something we&rsquo;re aggressively working on because we also want to be owners of our fate.
 
-Either way, we put every project through [the same paces](https://handbook.18f.gov/intake): We evaluate the relevance of the project to our priorities (more on that below); we do our best to measure value and impact; and we scrutinize the project and the agency for viability.
+Either way, we put every project through [the same paces](/intake): We evaluate the relevance of the project to our priorities (more on that below); we do our best to measure value and impact; and we scrutinize the project and the agency for viability.
 
 Our goal is to teach the agencies how we fish. Our theory of change is that cultural change &mdash; away from anxiety and fear and compliance, and toward experimentation and acceptance of modern methodologies &mdash; is better cultivated with carrots than with sticks. We make our case by shipping &mdash; over and over, at high quality, quickly, and inexpensively &mdash; to demonstrate that our methods are the ones most people should be using most of the time. If we think an agency is going to be simply unable to bend to agile methodology, or empower a product owner to make decisions on a highly involved, weekly basis, or develop in the open, then we push on the agency about those issues. If they can&rsquo;t respond, we don&rsquo;t take the project.
 
@@ -42,4 +42,4 @@ I tend to view our work through the lens of who our customers are. Broadly speak
 
 ## Learn more
 
-* [History and values of 18F](https://handbook.18f.gov/history-and-values/)
+* [History and values of 18F](/history-and-values/)

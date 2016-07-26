@@ -10,7 +10,7 @@ Acano runs in any modern web browser (Chrome, Safari, Firefox). Many of us use t
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](https://handbook.18f.gov/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
 
 ## Usage
 
@@ -18,7 +18,7 @@ Acano runs in any modern web browser (Chrome, Safari, Firefox). Many of us use t
 
 - **Please mute yourself if you're not speaking.** The mute button appears in the top middle of the meeting window. Alternatively, you can install Steven Reilly's [Chrome extension](https://chrome.google.com/webstore/detail/videochat-auto-mute/hbnakdpkiaeifdfkpipkcnmojleiklme) to auto-mute Acano and when you open it and unmute with the spacebar.
 
-- **Please don't use Acano's text-based chat,** as most participants can't see it and the chat-log remains in the room for the next users to see (if you're using a shared coSpace). Instead, use a Slack channel. We use [#general-talk](https://18f.slack.com/messages/general-talk) for [all-hands meetings](https://handbook.18f.gov/meetings-and-meeting-tools#all-hands).
+- **Please don't use Acano's text-based chat,** as most participants can't see it and the chat-log remains in the room for the next users to see (if you're using a shared coSpace). Instead, use a Slack channel. We use [#general-talk](https://18f.slack.com/messages/general-talk) for [all-hands meetings](/meetings-and-meeting-tools#all-hands).
 
 ## Tips
 

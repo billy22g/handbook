@@ -15,7 +15,7 @@ Remember that you can book time on your own calendar. We recommend blocking off 
 
 Also, meetings can and should be designed. If you're planning a meeting, be sure to state your goal -- what the meeting is and what it isn't -- in an agenda.
 
-The [Consulting Team](https://handbook.18f.gov/consulting) is an invaluable resource on planning and executing successful meetings. If you ever have a question about creating a meeting, pop into the "consulting for design and product" channel, [#c-design-prod](https://18f.slack.com/messages/c-design-prod/). You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
+The [Consulting Team](/consulting) is an invaluable resource on planning and executing successful meetings. If you ever have a question about creating a meeting, pop into the "consulting for design and product" channel, [#c-design-prod](https://18f.slack.com/messages/c-design-prod/). You can also use the "Discover" and "Decide" methods from 18F's [Design Methods](https://methods.18f.gov/) as a starting point.
 
 ## <a id="townhalls">OCSIT/18F Townhalls</a>
 
@@ -23,11 +23,11 @@ The [Consulting Team](https://handbook.18f.gov/consulting) is an invaluable reso
 
 ## <a id="location-specific">Location-specific meetings</a>
 
-Individual offices also have rituals that you might want to take part in. If you're in San Francisco, for example, there's a weekly Potluck on Thursdays, and guests are always welcome to join. The potluck serves as an informal huddle with the entire SF team, and it's a great opportunity for guests to meet the team and learn more about 18F. Along similar lines, the D.C. office has the [#dc-lunch-club](https://18f.slack.com/messages/dc-lunch-club/), which is a nice group/meeting for people who are so busy they often forget to eat (!). See the [office guides](https://handbook.18f.gov/offices) for more information.
+Individual offices also have rituals that you might want to take part in. If you're in San Francisco, for example, there's a weekly Potluck on Thursdays, and guests are always welcome to join. The potluck serves as an informal huddle with the entire SF team, and it's a great opportunity for guests to meet the team and learn more about 18F. Along similar lines, the D.C. office has the [#dc-lunch-club](https://18f.slack.com/messages/dc-lunch-club/), which is a nice group/meeting for people who are so busy they often forget to eat (!). See the [office guides](/offices) for more information.
 
 ## <a id="working-group">Working-group meetings</a>
 
-[Working groups](https://handbook.18f.gov/working-groups-and-guilds-101) shape the culture, frameworks, and work style across 18F. They often meet weekly. If you're interested in a working group's focus, you should join the group and attend meetings. And you don't have to become a permanent member of a working group to attend the occasional meeting. For example, newcomers occasionally join the onboarding working group's meetings (even if they don't want to take part in the working group itself) to voice their concerns about the onboarding process.
+[Working groups](/working-groups-and-guilds-101) shape the culture, frameworks, and work style across 18F. They often meet weekly. If you're interested in a working group's focus, you should join the group and attend meetings. And you don't have to become a permanent member of a working group to attend the occasional meeting. For example, newcomers occasionally join the onboarding working group's meetings (even if they don't want to take part in the working group itself) to voice their concerns about the onboarding process.
 
 ## <a id="management">Management (18F) meetings</a>
 
@@ -83,7 +83,7 @@ Here's an overview of how 18F uses specific tools to facilitate meetings.
 
 ## <a id="google-calendar">Google Calendar</a>
 
-**18F uses shared calendars** in [Google Calendar](https://handbook.18f.gov/google-calendar) for 18F events, interviews, and "out of office" time (please mark personal/sick and vacation time here in addition to logging it in [ALOHA](https://handbook.18f.gov/gsa-tools-equipment-and-transit/#aloha)). We also use shared calendars for working groups, guilds, and blog planning.
+**18F uses shared calendars** in [Google Calendar](/google-calendar) for 18F events, interviews, and "out of office" time (please mark personal/sick and vacation time here in addition to logging it in [ALOHA](/gsa-tools-equipment-and-transit/#aloha)). We also use shared calendars for working groups, guilds, and blog planning.
 
 **You can specify which hours you work.** From the guide: "About a third of the way down the 'General' settings' page there's a section called 'Working hours' and a checkbox that's unchecked by default. If you check it, you can specify your preferred working hours. Once you save your changes, other people will get a warning if they try to schedule you outside those times."
 
@@ -107,7 +107,7 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 ## <a id="google-hangouts">Google Hangouts</a>
 
-[Google Hangouts](https://handbook.18f.gov/google-hangouts) are video chats in the browser. Here are some tips for using Hangouts:
+[Google Hangouts](/google-hangouts) are video chats in the browser. Here are some tips for using Hangouts:
 <figure>
   <img  src="{{ site.baseurl }}/images/meetings-and-meeting-tools/4.png"
         alt="Add video call link in Google Calendar" />
@@ -121,21 +121,21 @@ People occasionally use [Doodle](http://www.doodle.com/) to send out meeting-tim
 
 ## <a id="acano">Acano</a>
 
-[Acano](https://handbook.18f.gov/acano) is software that GSA uses for meetings.
+[Acano](/acano) is software that GSA uses for meetings.
 
 ## <a id="remote-tools">Screensharing tools</a>
 
 Federal employees use a range of different video software to communicate. Check with your agency partner for preferences. Some common programs:
 
-- [Google Hangouts](https://handbook.18f.gov/google-hangouts)
-- [Acano](https://handbook.18f.gov/acano)
+- [Google Hangouts](/google-hangouts)
+- [Acano](/acano)
 - Adobe Connect
 - Talky.io
 - Join.me (if you need an account, talk to [kathryn](https://18f.slack.com/messages/@kathryn/))
 
 ## Set up a conference line
 
-Use [Meeting Space](https://handbook.18f.gov/gsa-tools-equipment-and-transit/#meeting-space).
+Use [Meeting Space](/gsa-tools-equipment-and-transit/#meeting-space).
 
 ## <a id="ios-recording">Recording iOS 8+ devices</a>
 

@@ -13,7 +13,7 @@ title: Agreements
 
 Under no circumstances does 18F do work without a signed, executed agreement in place. If you have a question about the existence of an agreement or whether work can begin, ask in [#iaa](https://18f.slack.com/archives/iaa).
 
-For more information about how we do business, see our [account management policy](https://handbook.18f.gov/client-accounts/).
+For more information about how we do business, see our [account management policy](/client-accounts/).
 
 
 ## What are the contents of an IAA?
@@ -93,7 +93,7 @@ The information below provides more detail than we typically give clients. Team 
 
 ## Reporting
 
-For information about in-process or signed agreements, see the [18F Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy](https://handbook.18f.gov/client-accounts/).
+For information about in-process or signed agreements, see the [18F Master Agreements Report](https://docs.google.com/spreadsheets/d/1v4QfXGaJVy9-CZ0n6cFLHGGs_5TL1l8uCh6ZyNYjMDk/edit#gid=2047916505) and our [account management policy](/client-accounts/).
 
 ---
 

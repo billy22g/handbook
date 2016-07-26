@@ -10,7 +10,7 @@ If you have any questions, please ping [#teamops](https://18f.slack.com/archives
 
 ## <a id="gsa-tools">GSA tools</a>
 
-Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here](https://handbook.18f.gov/networks/). Here&rsquo;s an overview of what you can access (you can click the names in this table to scroll down the page):
+Most of GSA&rsquo;s internal tools are accessible via our Agency&rsquo;s intranet [Insite](http://insite.gsa.gov). You must be on the VPN to connect if you work remotely. [Instructions for connecting are here](/networks/). Here&rsquo;s an overview of what you can access (you can click the names in this table to scroll down the page):
 
 <table>
   <thead>
@@ -122,7 +122,7 @@ Your account may not be set up by the time you start working at 18F. Account set
 
 ## <a id="concur">Concur</a>
 
-Concur is what you will use to book travel. Learn more in [Travel 101](https://handbook.18f.gov/travel-101). If you have questions in the meantime, head over to [#travel](https://18f.slack.com/messages/travel/).
+Concur is what you will use to book travel. Learn more in [Travel 101](/travel-101). If you have questions in the meantime, head over to [#travel](https://18f.slack.com/messages/travel/).
 
 
 ## <a id="employee-express">Employee Express</a>
@@ -140,7 +140,7 @@ Once your account is setup, be sure to log in right away as that initial access 
 
 If they ask for your health insurance code, you can see that in CHRIS under `GSA Personnel → Self Service → Employee Views → Benefits → Health Plan`. Your code is the number next to your health plan.
 
-See [Benefits](https://handbook.18f.gov/benefits) for more details about Employee Express.
+See [Benefits](/benefits) for more details about Employee Express.
 
 ## <a id="it-service-desk">IT Service Desk</a>
 
@@ -169,20 +169,20 @@ While this process can take up to eight days, the upshot is that your conference
 
 To register for OLU, you will need to have an active CHRIS account (see &ldquo;CHRIS,&rdquo; above). Once your CHRIS account is active, it can take up to seven weeks for your OLU account to be created. If you still haven&rsquo;t received an OLU email two months after starting and you already have a CHRIS account, follow the `Need help logging in?` link on the OLU homepage and request access via live chat.
 
-18F employees are required to take the [following courses](https://handbook.18f.gov/professional-development-and-training/#mandatory-training).
+18F employees are required to take the [following courses](/professional-development-and-training/#mandatory-training).
 
 Note that there is a lag time of about four days between completing courses in OLU and having those courses reflected in your CHRIS profile.
 
-You can log time spent in OLU as `Training / Professional Development` in [Tock](https://handbook.18f.gov/tock).
+You can log time spent in OLU as `Training / Professional Development` in [Tock](/tock).
 
 
 ## Office supplies
 
 18F also has an inventory of computer supplies on hand. Contact [Matt Spencer](https://18f.slack.com/messages/@mattspencer/) to see if we have anything on hand before putting in a purchase request. If you are remote, we’ll mail your mouse or computer to you.
 
-Access to general office supplies varies based on your location — see our [office tour guides](https://handbook.18f.gov/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can tell you more about the form.
+Access to general office supplies varies based on your location — see our [office tour guides](/offices). The D.C. office has a supply center on the first floor of the GSA building. The supply center offers paper, pens, notebooks, and other basic office supplies (many of which can also be found in printer rooms throughout the building). If you need office supplies that aren't available in the printer rooms or the supply center, you'll need to complete a [purchase request form](https://docs.google.com/a/gsa.gov/forms/d/1zSuFinxBVr0oi2aGFaHArRJ8McyfQhjC05SOGuCzo/viewform). [Kathryn Connolly](https://18f.slack.com/messages/@kathryn/) can tell you more about the form.
 
-For software requests, see our [equipment guide](https://handbook.18f.gov/equipment/#requests).
+For software requests, see our [equipment guide](/equipment/#requests).
 
 
 ## Get a copy of Microsoft Office
@@ -197,6 +197,6 @@ For software requests, see our [equipment guide](https://handbook.18f.gov/equipm
 
 ## Transit benefits
 
-All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you&rsquo;ll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor&rsquo;s signature. Use `OCSIT (X)` or `XF` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](https://handbook.18f.gov/offices) for more information.
+All GSA employees who take mass/public transit to work are eligible for transit subsidies. To receive a transit subsidy, you&rsquo;ll need to fill out [GSA form 3675](http://www.gsa.gov/portal/forms/download/115174) and get your supervisor&rsquo;s signature. Use `OCSIT (X)` or `XF` as your organizational code. Instructions differ slightly for each office location; see our [office tour guides](/offices) for more information.
 
 GSA's new Point of Contact for the transit subsidy program (CommuterConnections) is CO Transit Subsidy: [co-transit-subsidy@gsa.gov](mailto:co-transit-subsidy@gsa.gov).   

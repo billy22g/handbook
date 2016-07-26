@@ -64,7 +64,7 @@ Your badge should work in other GSA buildings. <a href="https://18f.slack.com/me
 
 ### <a id="connect-to-gsa">Connect to the GSA network remotely?</a>
 
-See [Networks](https://handbook.18f.gov/networks) for details.
+See [Networks](/networks) for details.
 
 ### <a id="get-my-laptop-repaired">Get my laptop repaired?</a>
 

@@ -137,7 +137,7 @@ If you're based in SF and want to regularly access the building after hours, you
 
 ### <a id="book-rooms">Book rooms for meetings?</a>
 
-The SF office has small team rooms. You can book other conference rooms using [BookIt!](https://handbook.18f.gov/gsa-tools-equipment-and-transit/#bookit) Recommended rooms include Yuma and Carson City, because they are [Acano](https://handbook.18f.gov/acano)-friendly.
+The SF office has small team rooms. You can book other conference rooms using [BookIt!](/gsa-tools-equipment-and-transit/#bookit) Recommended rooms include Yuma and Carson City, because they are [Acano](/acano)-friendly.
 
 Wireless works well in the beautiful courtyard, so work outside for a change!
 

@@ -6,7 +6,7 @@ navtitle: Product and open source
 _I&rsquo;m Gray Brooks. I work on the Product team, focusing on APIs and open source._
 
 So, I wear a couple hats formally and then a number of other hats informally.
-Right now, I&rsquo;d like to talk about the Product Team and open source, but I&rsquo;m also deeply passionate about APIs, [website analytics](https://handbook.18f.gov/google-analytics), 18F team dynamics, and effecting change in government. Those last ones I&rsquo;ll largely spare you from today, but holler anytime if you want to discuss.
+Right now, I&rsquo;d like to talk about the Product Team and open source, but I&rsquo;m also deeply passionate about APIs, [website analytics](/google-analytics), 18F team dynamics, and effecting change in government. Those last ones I&rsquo;ll largely spare you from today, but holler anytime if you want to discuss.
 
 ## <a id="product-team">Product team</a>
 
@@ -22,7 +22,7 @@ Specifically, I&rsquo;m the Product Lead for [pulse.cio.gov](https://pulse.cio.g
 - Ensure that the project stays on schedule.
 - Ensure that we satisfy the formal requirements of the project.
 
-You can see who is on the Product Team [on the org chart](https://handbook.18f.gov/org-chart).
+You can see who is on the Product Team [on the org chart](/org-chart).
 
 We also have a [Product Guide](https://pages.18f.gov/product-guide/).
 
@@ -42,11 +42,11 @@ The last 5-6 years have seen a slow but steady growth in the government in the o
 - Using other open source projects
 - Contributing and being involved in open source communities
 
-The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.18f.gov/open-source-program/). Our team has also adopted a very strong [open source policy](https://handbook.18f.gov/open-source).
+The White House committed to publishing a government-wide open source policy this year, and the CTO Megan Smith&rsquo;s team is working on making that happen. We&rsquo;ve been doing our part by bringing together in one place [all of the resources that agencies find useful](http://pages.18f.gov/open-source-program/). Our team has also adopted a very strong [open source policy](/open-source).
 
 Everything we as a team do should be public and available for collaboration. An open source project isn’t just code - think of it as many forms of contribution working together, including documentation, support, design, and code.
 
-There are also several [listservs and communities](https://handbook.18f.gov/general-contacts-and-listservs/#listservs) that facilitate working with others within the government.
+There are also several [listservs and communities](/general-contacts-and-listservs/#listservs) that facilitate working with others within the government.
 
 ### Would any personally identifiable information (PII) live in open source software? 
 

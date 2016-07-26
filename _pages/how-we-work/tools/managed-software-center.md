@@ -23,7 +23,7 @@ curl https://munki.18f.gov/munki.sh | sudo sh
 ```
 3. Enter your password to install some system preferences.
 4. Press **Command-Q** to quit Terminal and click **Close** to confirm.
-5. Open Managed Software Center. Upon first launch, you'll see [ClamXav](https://handbook.18f.gov/clamxav) attempting to download to your system.
+5. Open Managed Software Center. Upon first launch, you'll see [ClamXav](/clamxav) attempting to download to your system.
 6. Click **Update** to continue.  ![Screenshot of Managed Software Center]({{ site.baseurl }}/images/managed-software-center/1.png)
 
 ## Usage

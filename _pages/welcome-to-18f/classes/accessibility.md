@@ -21,7 +21,7 @@ Developer [Nick Bristow](https://18f.slack.com/messages/@bristow) leads the [acc
 ### Documentation
 
 - [Accessibility Guide](https://pages.18f.gov/accessibility/)
-- [Working Groups and Guilds](https://handbook.18f.gov/working-groups-and-guilds-101)
+- [Working Groups and Guilds](/working-groups-and-guilds-101)
 
 ## <a id="training">Training</a>
 

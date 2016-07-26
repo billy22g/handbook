@@ -49,7 +49,7 @@ PII is any piece of data, singly or in combination, that can identify unique ind
 
 with PII always makes that PII sensitive. However, determining what is and isn't PII, and what is or isn't sensitive PII can often require some reflection. 
 
-Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they have, as Noah has said [elsewhere](https://handbook.18f.gov/intro-to-18f-infrastructure/):
+Much of our research involves federal employees. When we are talking to federal employees (not contractors, and not vendors) about their work, they have, as Noah has said [elsewhere](/intro-to-18f-infrastructure/):
 
 > practically no right to privacy in connection with your work. Anything you say or do — in an email, a phone call, a private GitHub repo, a Slack direct message, etc — can be monitored, recorded, and turned into a Federal record. 
 
@@ -59,7 +59,7 @@ As researchers, however, we need to follow the principle of beneficence. So just
 
 The best place to store PII is not to store it at all. The best place online, if you _must_ collect it, is in a locked-down document on Google Drive that is only accessible to the immediate research team. Using that document, link each participant to a pseudonym form (eg a codename or number such "PO1") Research reports and notes should contain only those pseudonyms. When it comes time to release reports outside of the immediate research team, refer back to your locked-down file for the correct sharing permissions. Our consent forms by default ask participants to approve sharing quotations with the public, but it's always possible for someone to edit or adapt the forms to give more options. If you have any paper documents with PII, they always go into a locked file cabinet. 
 
-A good rule is to check with your project lead before sharing information outside the immediate team. What has been approved by the GSA may not be approved by partners. Check the Appendix in [Design page](https://handbook.18f.gov/design/) for detailed information about who can see what, when. The social media, collaboration, and security classes in GSA's Online University can also be helpful in managing access. 
+A good rule is to check with your project lead before sharing information outside the immediate team. What has been approved by the GSA may not be approved by partners. Check the Appendix in [Design page](/design/) for detailed information about who can see what, when. The social media, collaboration, and security classes in GSA's Online University can also be helpful in managing access. 
 
 Be especially mindful as you post meeting notes or sidebar conversations during interviews in Slack channels. No PII should go into Slack channels unless your participant has explicitly consented to have PII shared with the general public. And even then, be aware of the potential level of visibility any information will have once you post it in Slack.
 

@@ -34,7 +34,7 @@ You should track time spent on each billable project separately. In addition, yo
 
 Whenever you take “leave” — be that vacation time, holiday time, sick time, or another type of leave — you should log it as “Out of Office” in Tock. If your leave begins prior to the release of a timecard (before Wednesday), please send me an email with your time entries and I will enter them. For longer leave requests, make sure you have your time entered on the “18F Out of Office” Google calendar — I track those entries and will enter your time. If you don’t enter extended leave in the “18F Out of Office” calendar I won’t know you are out, I won’t enter your time, and you will be delinquent.
 
-[ALOHA](https://handbook.18f.gov/gsa-tools-equipment-and-transit#aloha) is GSA’s system and is separate from [Tock](https://handbook.18f.gov/tock), which is 18F’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
+[ALOHA](/gsa-tools-equipment-and-transit#aloha) is GSA’s system and is separate from [Tock](/tock), which is 18F’s own timekeeping system. If you’re taking time off, you’ll need to make sure you’re accounted for in both systems.
 
 ### Tracking leave in Tock
 
@@ -58,7 +58,7 @@ Team Ops has updated the Out of Office options in Tock to reflect categories of 
 
 `Other` Tock your time here if you are away from the office and not performing duties but it does not fit in any of the previous 8 categories, please record that time here as well as making a note of what you were doing during that time.
 
-For more information on leave, see [Cristina’s Benefits class](https://handbook.18f.gov/benefits#leave) and [Leah’s GSA Tools and Equipment class](https://handbook.18f.gov/gsa-tools-equipment-and-transit).
+For more information on leave, see [Cristina’s Benefits class](/benefits#leave) and [Leah’s GSA Tools and Equipment class](/gsa-tools-equipment-and-transit).
 
 That’s all I’ve got regarding Tock. Feel free to reach out if you have any questions. Many people, for example, have questions about how to actually track their time throughout the week. Lots of people do this differently; I suggest chatting with your fellow 18F team members to get some ideas. The [#tock](https://18f.slack.com/archives/tock) channel on Slack is also a great resource.
 
@@ -137,7 +137,7 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 - Labor is usually the largest portion of the cost of the services 18F provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
 - Understanding how people work across multiple projects provides 18F as a whole with insight into areas where we might be over or under capacity.
 - Understanding the actual labor costs required to deliver projects will help us prepare more accurate _cost estimates_ for similar projects in the future.
-- Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](https://handbook.18f.gov/iaa). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
+- Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](/iaa). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
 
 --------------------------------------------------------------------------------
 

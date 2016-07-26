@@ -23,9 +23,9 @@ All 18F employees are issued an Apple MacBook Air/Pro computer. Note that this i
 
 ### <a id="laptop">Rules</a>
 
-**Install [Managed Software Center](http://handbook.18f.gov/managed-software-center/).** This is how we'll send you software updates, optional software titles, and Apple updates that won't break your system.
+**Install [Managed Software Center](/managed-software-center/).** This is how we'll send you software updates, optional software titles, and Apple updates that won't break your system.
 
-**Install [ClamXav](http://handbook.18f.gov/clamxav)** immediately. This software will be **automatically** pushed to your system by the Managed Software Center, so you **must** complete that installation first. This is your antivirus software.
+**Install [ClamXav](/clamxav)** immediately. This software will be **automatically** pushed to your system by the Managed Software Center, so you **must** complete that installation first. This is your antivirus software.
 
 **[Require a password](http://support.apple.com/kb/PH18669?viewlocale=en_US)** when your computer goes to sleep or shows a screensaver.
 
@@ -50,7 +50,7 @@ GSA IT will ask for your Apple ID, password, and GKey.
 
 **Activate [Find My iPhone](https://support.apple.com/kb/PH2697?locale=en_US).** If you're on an Android phone, activate [Android Device Manager](https://www.google.com/android/devicemanager).
 
-**After GSA IT provisions your phone, set up two-factor SMS verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for SMS two-factor authentication in our [Slack](https://handbook.18f.gov/slack), [GitHub](https://handbook.18f.gov/github), and [Gmail](https://handbook.18f.gov/gmail) guides. You can also use [Authy](https://www.authy.com/) or [Google Authenticator](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google%20authenticator%20app) with these applications.
+**After GSA IT provisions your phone, set up two-factor SMS verifications.** Email <mailto:accesscard@gsa.gov> and ask them to add your work cell phone number (which you may or may not have) and your personal cell phone number to your GCIMS profile. You can learn more about using your phone for SMS two-factor authentication in our [Slack](/slack), [GitHub](/github), and [Gmail](/gmail) guides. You can also use [Authy](https://www.authy.com/) or [Google Authenticator](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google%20authenticator%20app) with these applications.
 
 ### Tips
 
@@ -121,7 +121,7 @@ As you set up your 18F accounts and devices, here are three tips for making pass
 
 ### 1. Use a password manager
 
-There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](https://handbook.18f.gov/equipment/#laptop)).
+There's a secret to dealing with passwords: use a password manager to store your passwords. This way, you only need to memorize a few strong passwords: your master password for the password manager, your laptop password and phone passcode, and maybe a few others (such as your iCloud password if that's [your recovery method for forgetting your laptop password](/equipment/#laptop)).
 
 [**1Password**](https://1password.com/) and [**KeePassX**](https://www.keepassx.org/) are password managers approved for work. You can get a license for 1Password by asking [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov). KeePassX is free.
 

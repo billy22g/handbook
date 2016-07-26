@@ -6,7 +6,7 @@ Links to websites we use regularly.
 
 ## 18F
 
-* [18F Handbook](https://handbook.18f.gov/)
+* [18F Handbook](/)
 * [18F Hub](https://hub.18f.gov/)
 * [18F Brand Toolkit](https://pages.18f.gov/brand/)
 * [18F Press Resources](https://18f.gsa.gov/press/)

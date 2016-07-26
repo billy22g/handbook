@@ -64,7 +64,7 @@ For more information, see this [full list of skills by staff member](https://doc
 
 ### <a id="structure">Structure</a>
 
-As per the [org chart](https://docs.google.com/presentation/d/1A5hAu_qKmaOUB_TRhyoC7FNe30zB2Xwlio6nm1hipZk/edit), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](http://handbook.18f.gov/working-groups-and-guilds-101).
+As per the [org chart](https://docs.google.com/presentation/d/1A5hAu_qKmaOUB_TRhyoC7FNe30zB2Xwlio6nm1hipZk/edit), 18F Design is itself composed of the user experience (UX) design, visual design, frontend design, and content design teams. Members of the Design team are active participants in the frontend and research [guilds](/working-groups-and-guilds-101).
 
 As these teams have grown in size, we’ve introduced **design leads** to facilitate communication. Design leads work both internal to the Design team and external to 18F as a whole to address administrative questions, talk through scope concerns, and coordinate resourcing. In your first week, you’ll be assigned a design lead from your own discipline.
 
@@ -130,7 +130,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
     - Some of us participate in our personal capacities in [a non-18F-sponsored Slack channel to discuss user research for government around the world](https://gds.blog.gov.uk/2015/08/04/user-research-for-government-around-the-world/). It’s managed by [Leisa Reichelt](http://www.disambiguity.com/about-me/), and you can request access by emailing her from your GSA email. When you get access, however, please make sure the email address on that Slack account is a personal address, so that it’s clear you are not joining in an official capacity.
 - **Mailing lists**
   - 18F-design@gsa.gov contains information relevant to visual and UX designers, content designers and strategists, researchers and other designy folk. You’ll most likely get added automatically — no need to worry about registering.
-  - Other mailing lists are listed [here](https://handbook.18f.gov/general-contacts-and-listservs/#listservs-and-slack-groups).
+  - Other mailing lists are listed [here](/general-contacts-and-listservs/#listservs-and-slack-groups).
 
 ### <a id="tools">Tools</a>
 
@@ -148,21 +148,21 @@ And one more thing: before you start using any new tool that asks for access to 
 
 #### Project management
 
-- **Trello:** Use it for project management. Get more information on the [How to use Trello](https://handbook.18f.gov/trello) page. Access is immediate.
+- **Trello:** Use it for project management. Get more information on the [How to use Trello](/trello) page. Access is immediate.
 
 #### Research
 
 - **Ethnio:** Use it for online research recruiting. Contact [Jeremy Canfield](https://18f.slack.com/messages/@jeremy) or [Liz Goodman](https://18f.slack.com/messages/@egoodman) for immediate access, and be sure to read our [Getting Started with Ethnio](https://docs.google.com/a/gsa.gov/document/d/14YwXV9BoY4EUEGc7kMITFQ-9tFjBipTaj7dsGFIJnNc/edit?usp=sharing) guide.
-- **Google Analytics:** Use it for analytics. More info [here](https://handbook.18f.gov/google-analytics).
+- **Google Analytics:** Use it for analytics. More info [here](/google-analytics).
 - **Surveys:** Internal to 18F, we often use Google Forms. However, government employees outside 18F often can't access Google Forms on their work computers. So when addressing our agency partners, we often need to use other options — being careful, of course, to avoid asking for personally identifiable information. Ask [#research](https://18f.slack.com/messages/research) for recommendations.
 
 #### Workshops
 
-- **Mural.ly:** Use it for research analysis and workshops. Get more info [here](https://handbook.18f.gov/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
+- **Mural.ly:** Use it for research analysis and workshops. Get more info [here](/murally/). Access is immediate, but you’ll need to get permission from an admin to create rooms.
 
 #### Word processing
 
-- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](https://handbook.18f.gov/gsa-tools-equipment-and-transit/#get-a-copy-of-microsoft-office) to get a license.
+- **Microsoft Office:** We use this rarely and only for collaboration with those partner agencies who rely on it. [Follow the instructions](/gsa-tools-equipment-and-transit/#get-a-copy-of-microsoft-office) to get a license.
 
 ### <a id="assets">Assets</a>
 

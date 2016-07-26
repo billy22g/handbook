@@ -106,7 +106,7 @@ How we don’t want to be perceived:
 
 ### <a id="structure">Structure</a>
 
-As per [the org chart](https://handbook.18f.gov/org-chart), 18F Consulting is itself composed of the Engagement Management, Design & Product Strategy, Tech & Data Architecture, and Acquisition Management teams.
+As per [the org chart](/org-chart), 18F Consulting is itself composed of the Engagement Management, Design & Product Strategy, Tech & Data Architecture, and Acquisition Management teams.
 
 The official Director of the Consulting team is Chris Cairns. As the Consulting Team has grown in size, we’ve introduced other leads, called **Consulting Directors**, to facilitate communication. Consulting Directors work both internally with the Consulting team and externally with 18F as a whole to address administrative questions, talk through scope concerns, and coordinate resourcing. In your first week, you’ll be assigned a Consulting Director from your own discipline. 
 

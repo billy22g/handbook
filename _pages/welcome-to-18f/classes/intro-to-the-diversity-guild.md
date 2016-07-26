@@ -20,7 +20,7 @@ _It&rsquo;s important that the responsibility of answering questions around dive
 
 ## <a id="documentation">Documentation</a>
 
-The foundation for the Diversity Guild's work is the [18F Code of Conduct](https://handbook.18f.gov/code-of-conduct/).
+The foundation for the Diversity Guild's work is the [18F Code of Conduct](/code-of-conduct/).
 
 ## <a id="philosophy">Philosophy</a>
 

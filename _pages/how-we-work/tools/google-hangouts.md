@@ -6,7 +6,7 @@ Google Hangouts is an online video conferencing platform that allows us to add p
 
 ## Rules
 
-**Abide by [the 18F Code of Conduct](https://handbook.18f.gov/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+**Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
 
 ## Setup
 
@@ -23,7 +23,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
 
 ## <a id="setup">Tips</a>
 
-- You can [add a Hangout](https://handbook.18f.gov/google-calendar/#how-do-i-add-a-video-call-to-my-calendar-invite) to Google Calendar invites.
+- You can [add a Hangout](/google-calendar/#how-do-i-add-a-video-call-to-my-calendar-invite) to Google Calendar invites.
 
 - You can start a hangout from Slack by typing `/hangout`.
 

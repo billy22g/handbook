@@ -88,7 +88,7 @@ If you have an eye appointment but have yet to receive your card(s), you can loo
 
 ## Leave
 
-Please use [ALOHA](https://handbook.18f.gov/gsa-tools-equipment-and-transit/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, [Leila Knight](mailto:leila.knight@gsa.gov). You can find Leila's other contact information such as her phone numbers in the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
+Please use [ALOHA](/gsa-tools-equipment-and-transit/#aloha) to request sick leave and annual leave. For any leave-related questions, please contact GSA HR&rsquo;s Leave Specialist, [Leila Knight](mailto:leila.knight@gsa.gov). You can find Leila's other contact information such as her phone numbers in the [GSA Staff Directory](http://www.gsa.gov/portal/staffDirectory/searchStaffDirectory.action).
 
 ### Annual leave
 
@@ -159,9 +159,9 @@ One note: If you have been contributing to 401k, 403b or anything alike at your 
 
 ## Training
 
-18F team members are eligible for many professional development and training opportunities. For more information, see [Pia Scott&rsquo;s class](https://handbook.18f.gov/professional-development-and-training).
+18F team members are eligible for many professional development and training opportunities. For more information, see [Pia Scott&rsquo;s class](/professional-development-and-training).
 
 
 ## Transit subsidies
 
-All GSA employees are eligible for transit subsidies which cover the cost of your public transportation travel up to $130 a month. See your local [office guide](https://handbook.18f.gov/offices) for more information.
+All GSA employees are eligible for transit subsidies which cover the cost of your public transportation travel up to $130 a month. See your local [office guide](/offices) for more information.

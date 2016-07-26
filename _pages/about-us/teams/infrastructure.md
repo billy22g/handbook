@@ -4,15 +4,15 @@ title: Infrastructure
 
 _The Infrastructure team helps 18F navigate the “federal compliance architecture.” This work applies to much more than technology: it applies to our entire operation, including how we work inside the law, how we secure our systems, how we collect data from the public, and how we spend money._
 
-While [Team Ops](https://handbook.18f.gov/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership. 
+While [Team Ops](/ops) focuses on what would normally be considered the “back office” — financial matters, procurement, and space operations — Infrastructure focuses on our digital infrastructure and development methodologies. Both teams work closely together, and there are many areas in which we have joint ownership. 
 
-The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](https://handbook.18f.gov/intro-to-18f-infrastructure), but the summary is that we have three rules:
+The Director of Infrastructure, Noah Kunin, goes into more depth in [his class](/intro-to-18f-infrastructure), but the summary is that we have three rules:
 
 1. If you don’t see us doing something already, and you can’t find express authorization to do it, please ask first. We promise to get you an answer very quickly.
 2. Either everyone in the public can participate, or no one can. You alone cannot decide why Person A has access to something but not Person B.
 3. You cannot spend a single penny, create the expectation that a penny will be spent, or cause a penny to be spent, unless Congress has appropriated the funds.
 
-18F Infrastructure’s work is closely related to your [Ethics and Legal training](https://handbook.18f.gov/hatch-act-foia-ethics-code-of-conduct). The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
+18F Infrastructure’s work is closely related to your [Ethics and Legal training](/hatch-act-foia-ethics-code-of-conduct). The difference is that the Infrastructure team is mainly concerned about the behavior of systems we use or build, while that ethics/legal training (and the broader GSA legal team) focuses on what you as a person can and cannot do.
 
 If you have any questions, you can find us on Slack in [#infrastructure](https://18f.slack.com/messages/infrastructure/), [#pra](https://18f.slack.com/messages/pra/), and [#research](https://18f.slack.com/messages/research/).
 
@@ -26,7 +26,7 @@ _Welcome to the 18F Infrastructure team — we’re happy you’re here! We’ve
 
 Members of the Infrastructure team bridge multiple disciplines: software development, system administration, operations, and security. The team supports, informs and glues together the activities of every team within 18F. For more information, see this [full list of skills by staff member](https://docs.google.com/spreadsheets/d/1X0i53EqWTzh0l3lrs0us-2bZ_2Z6TUGn2Y3lPHmSuXo/edit#gid=0).
 
-If you are technical, you may also want to take a look at the [Engineering onboarding page](https://handbook.18f.gov/engineering).
+If you are technical, you may also want to take a look at the [Engineering onboarding page](/engineering).
 
 ### <a id="leads-and-management">Leads and management</a>
 
@@ -71,9 +71,9 @@ Here are some common tools we use, how we use them, and how you can get access t
 
 * Sublime Text: Contact @kimber on Slack.
 * RubyMine: Contact @kimber on Slack.
-* [ClamXav](https://handbook.18f.gov/clamxav)
-* [Slack](https://handbook.18f.gov/slack)
-* [GitHub](https://handbook.18f.gov/github)
+* [ClamXav](/clamxav)
+* [Slack](/slack)
+* [GitHub](/github)
 * Sauce Labs
 * New Relic
 * Pingdom

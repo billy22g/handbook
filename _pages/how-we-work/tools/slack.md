@@ -13,7 +13,7 @@ Because Slack is a web application, there’s no installation necessary. You can
 
 - **Complete [your profile](https://18f.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
 - **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options.
-- **Abide by [the 18F Code of Conduct](https://handbook.18f.gov/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/@noah/) and [Hillary Hartley](https://18f.slack.com/messages/@hillary/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/@noah/) and [Hillary Hartley](https://18f.slack.com/messages/@hillary/).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** If you need to share sensitive data (environmental variables, passwords, and so forth), please use [Fugacious](https://fugacious.18f.gov/) to create a short message that is auto-deleted. If the information you need to share is very complex, please share it using a GSA Google Drive folder, and then promptly delete it once you’re done sharing.
 - **Assume everything you share will be made public**. Treat Slack as a public forum - you have _no_ privacy. This includes file uploads to Slack.
 
@@ -68,7 +68,7 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 ## The public
 
-18F has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](https://handbook.18f.gov/code-of-conduct).
+18F has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
 
 ### Invite a member of the public to Slack
 
@@ -89,7 +89,7 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 - **Feel free to pop in and out of channels.** You can `/mute` channels (so you only receive messages when your name or `@channel` is mentioned) or leave channels if they become overwhelming.
 - **If you’re interested in tracking specific keywords across Slack,** set up [highlight word notifications](https://get.slack.help/hc/en-us/articles/201398467-Highlight-word-notifications).
 - **To add an RSS feed to any channel**, type `/feed subscribe <RSS URL>`.
-- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.18f.gov/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](https://handbook.18f.gov/slack/#shortcuts) below.)
+- **Never use Slack to share secure information.** If you need to share short bits of text securely, use [Fugacious](https://fugacious.18f.gov/). If you want to say something private, it’s easy to ask someone to hop on a call. (See the [shortcuts](/slack/#shortcuts) below.)
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji, which is why you’ll frequently see people leaving emoji on messages. We use the :evergreen_tree: emoji to catalog things we need to document for future new hires. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`). We have a blog post about this [here](https://18f.gsa.gov/2015/12/08/using-emoji-for-knowledge-sharing/).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry—though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.

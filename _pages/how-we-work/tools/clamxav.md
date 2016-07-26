@@ -7,7 +7,7 @@ ClamXav is an anti-virus and malware scanner for Mac OS X with the ability to de
 
 ## Installation
 
-1. Download ClamXav through 18F&rsquo;s [Managed Software Center](https://handbook.18f.gov/managed-software-center).
+1. Download ClamXav through 18F&rsquo;s [Managed Software Center](/managed-software-center).
 2. Accept the software licensing agreement.
 3. Register ClamXav by clicking [this link](https://www.clamxav.com/installRegistration/CLA151230-5218-44105). You may receive an `External Protocol Request` warning. Please **do not** select **Remember my choice for all links of this type**.
 4. Click **Launch Application** in the External Protocol Request window.

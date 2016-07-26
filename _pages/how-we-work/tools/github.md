@@ -6,7 +6,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 ## Documentation
 
-- Greg Boone gives [a brief class on GitHub and the 18F website](https://handbook.18f.gov/github-and-18f-site).
+- Greg Boone gives [a brief class on GitHub and the 18F website](/github-and-18f-site).
 
 - Melody Kramer and Greg Boone co-wrote [a guide to using GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/).
 
@@ -19,7 +19,7 @@ GitHub is a closed-source platform for [open-source](https://github.com/18F/open
 
 Because GitHub is a web application, there&rsquo;s no installation necessary, but you may find the [desktop app](https://desktop.github.com/) useful.
 
-If you don&rsquo;t have a GitHub account, please use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](https://handbook.18f.gov/federal-records). If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails).
+If you don&rsquo;t have a GitHub account, please use your work email (rather than your personal email) to [sign up](https://github.com/join), as this helps us with [records retention](/federal-records). If you do have a GitHub account, please [add your work email to your profile](https://github.com/settings/emails).
 
 ### 1. Complete your profile
 
@@ -53,7 +53,7 @@ Go to the [18F people page](https://github.com/orgs/18F/people). Click where it 
 
 ## Rules
 
-- **Abide by [the 18F Code of Conduct](https://handbook.18f.gov/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
+- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Noah Kunin](https://18f.slack.com/messages/noah/) or [Hillary Hartley](https://18f.slack.com/messages/hillary/).
 
 - **Do not grant Admin rights to anyone but 18F staff.**
 

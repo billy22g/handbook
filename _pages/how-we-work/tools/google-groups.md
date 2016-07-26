@@ -2,7 +2,7 @@
 title: Google Groups
 ---
 
-We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups 18F uses is [here](https://handbook.18f.gov/general-contacts-and-listservs/)).
+We use Google Groups to manage team and interest-based email distribution lists and listservs (a list of listservs and groups 18F uses is [here](/general-contacts-and-listservs/)).
 
 ## Create a Google Group
 

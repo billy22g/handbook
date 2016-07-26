@@ -33,7 +33,7 @@ Members of the Engineering team come from all over: major technology companies, 
 
 ### Structure
 
-As per [the org chart](https://handbook.18f.gov/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team. 
+As per [the org chart](/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team. 
 
 Teams occasionally meet to:
 
@@ -93,7 +93,7 @@ Engineering also has five functional leads: backend, frontend, operations, secur
 
 18F team members are committed to up to 32 hours weekly of project time. Your remaining time is intended for general meetings, like the weekly all hands, and working group or guild participation. If you don’t have enough project work to fill 32 hours, please let your facilitator know.
 
-All 18F staff track their time in [Tock](https://tock.18f.gov/). Time sheets for the previous week are due at the end of the day (COB in your time zone) each Monday. Learn more in the [Tock guide](https://handbook.18f.gov/tock/).
+All 18F staff track their time in [Tock](https://tock.18f.gov/). Time sheets for the previous week are due at the end of the day (COB in your time zone) each Monday. Learn more in the [Tock guide](/tock/).
 
 While cost recovery is an important organizational goal, internal, non-billable work is important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours. 
 
@@ -156,11 +156,11 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 ## Mailing lists
 
   - 18F-dev@gsa.gov. You’ll most likely get added automatically — no need to worry about registering. 
-  - Optional listservs that may be of interest: [Interagency Open Data Working Group](https://handbook.18f.gov/general-contacts-and-listservs/#heading-20), [Security Today](https://handbook.18f.gov/general-contacts-and-listservs/#heading-21).
+  - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#heading-20), [Security Today](/general-contacts-and-listservs/#heading-21).
 
 ## Tools
 
-Here are some [common tools we use](https://handbook.18f.gov/#tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
+Here are some [common tools we use](/#tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 

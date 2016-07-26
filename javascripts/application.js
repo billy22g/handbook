@@ -114,10 +114,22 @@ $(document).ready(function() {
 
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
-    // list of URLs to match as substrings – can be full URLs, hostnames, etc.
+    defaultMessage: "This link is private to 18F.",
+    // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
-      'docs.google.com'
-      // ...
+      '18f.slack.com',
+      'docs.google.com',
+      'drive.google.com',
+      'github.com/18F/Accessibility_Reviews',
+      'github.com/18F/blog-drafts',
+      'github.com/18F/codereviews',
+      'github.com/18F/DevOps',
+      'github.com/18F/Infrastructure',
+      'github.com/18F/staffing-and-resources',
+      'github.com/18F/team-api.18f.gov',
+      'github.com/18F/writing-lab',
+      'gsa.my.salesforce.com',
+      'insite.gsa.gov'
     ]
   });
 }, false );

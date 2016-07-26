@@ -139,6 +139,10 @@ Lockers are to your left and right when you walk inside the door.
 
 If you need pens, paper, and other office supplies, there are a few items above the coffee making area.
 
+### <a id="printers"></a>Printers
+
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
+
 ## <a id="amenities"></a>Amenities
 
 ### <a id="transit-subsidy"></a>Transit subsidy

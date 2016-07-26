@@ -286,9 +286,6 @@ navigation:
     - text: Trello
       url: trello/
       internal: true
-    - text: Ubuntu
-      url: ubuntu/
-      internal: true
     - text: VMware Horizon
       url: vmware-horizon/
       internal: true

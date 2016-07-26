@@ -143,15 +143,7 @@ Wireless works well in the beautiful courtyard, so work outside for a change!
 
 ### <a id="access-a-printer">Access a printer?</a>
 
-The printer is located at the far end of the office. The IP address is `172.30.93.49`.
-
-To set up a printer on a Mac:
-
-1. Open System Preferences.
-2. Click Printers and Scanners.
-3. Click the `+` button.
-4. Click the `IP` tab. Enter `172.30.93.49` in the address line.
-5. Click `Add`. The printer model is a Xerox WorkCentre 7855.
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
 
 ### <a id="wifi">Get on the wireless?</a>
 

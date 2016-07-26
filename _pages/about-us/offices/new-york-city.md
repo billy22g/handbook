@@ -114,10 +114,9 @@ You can book large rooms for meetings, but Phone Rooms can also be booked for ca
 
 Note: You will need to have a Civic Hall membership to book a room. If you're visiting NYC, post in #nyc to have someone here book your room with their log in.
 
+### <a id="printers"></a>Printers
 
-### <a id="access-a-printer"></a>Access a printer?
-
-The IP address is clearly labeled on the printer itself, `192.168.10.40`. You should be able to enter that as a printer IP for it to auto-detect and work.
+Refer to [our printer information document](https://docs.google.com/document/d/1Ikw7kfeY10lnImZHN7zq5wNjaTRBdTPkZj4QG7-z3d0/edit#) for more details.
 
 ### <a id="get-on-the-wireless"></a>Get on the wireless?
 

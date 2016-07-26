@@ -51,4 +51,10 @@ def_command :build, 'Build the site' do |args|
   build_jekyll args
 end
 
+def_command :ci_build, 'Run the CI tests' do |args|
+  build_jekyll
+  require 'html-proofer'
+  HTMLProofer.check_directory('./_site', disable_external: true).run
+end
+
 execute_command ARGV

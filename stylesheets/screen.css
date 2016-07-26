@@ -1135,51 +1135,16 @@ a[id]{
 }
 
 @media screen and (min-width: 711.11px){
+	.toc-nav-children,
+  .toc-nav-grandchildren {
+  	-webkit-column-count: 2;
+  	-moz-column-count: 2;
+  	column-count: 2;
+  }
 
-	.layout-table-of-contents .wrapper ol li.agreements,
-	.layout-table-of-contents .wrapper ol li.bookmarks,
-	.layout-table-of-contents .wrapper ol li.checklist{
-		float: left;
-		width: 50%;
-		margin-right: 0.6em;
-	}
-
-	.layout-table-of-contents .wrapper ol li.equipment,
-	.layout-table-of-contents .wrapper ol li.networks{
-		float: right;
-		width: 48.5%;
-	}
-
-	.layout-table-of-contents .wrapper ol li.equipment{ margin-top: -2.8em; }
-	.layout-table-of-contents .wrapper ol li.networks{ margin-top: -1.4em; }
-
-		.layout-table-of-contents .wrapper ol li.tools{ clear: both; }
-
-	.layout-table-of-contents .wrapper ol li.classes > ol,
-	.layout-table-of-contents .wrapper ol li.equipment  > ol,
-	.layout-table-of-contents .wrapper ol li.networks  > ol,
-	.layout-table-of-contents .wrapper ol li.offices  > ol,
-	.layout-table-of-contents .wrapper ol h1#policies + p + ol,
-	.layout-table-of-contents .wrapper ol li.teams  > ol,
-	.layout-table-of-contents .wrapper ol li.tools  > ol{
-	clear: both;
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
-	column-count: 2;
-}
-
-	.layout-table-of-contents .wrapper ol li.classes::after,
-	.layout-table-of-contents .wrapper ol li.equipment::after,
-	.layout-table-of-contents .wrapper ol li.networks::after,
-	.layout-table-of-contents .wrapper ol li.offices::after,
-	.layout-table-of-contents .wrapper ol li.overview::after,
-	.layout-table-of-contents .wrapper ol li.policies::after,
-	.layout-table-of-contents .wrapper ol li.teams::after,
-	.layout-table-of-contents .wrapper ol li.tools::after{
-		display: table;
-		content: "";
-		clear: both;
-	}
+  .toc-nav-child-with-children {
+    column-span: all;
+  }
 }
 
 .layout-table-of-contents ol h1{

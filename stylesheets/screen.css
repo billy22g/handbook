@@ -1135,25 +1135,7 @@ a[id]{
 }
 
 @media screen and (min-width: 711.11px){
-
-	.layout-table-of-contents .wrapper ol li.agreements,
-	.layout-table-of-contents .wrapper ol li.bookmarks,
-	.layout-table-of-contents .wrapper ol li.checklist{
-		float: left;
-		width: 50%;
-		margin-right: 0.6em;
-	}
-
-	.layout-table-of-contents .wrapper ol li.equipment,
-	.layout-table-of-contents .wrapper ol li.networks{
-		float: right;
-		width: 48.5%;
-	}
-
-	.layout-table-of-contents .wrapper ol li.equipment{ margin-top: -2.8em; }
-	.layout-table-of-contents .wrapper ol li.networks{ margin-top: -1.4em; }
-
-		.layout-table-of-contents .wrapper ol li.tools{ clear: both; }
+	.layout-table-of-contents .wrapper ol li.tools{ clear: both; }
 
 	.layout-table-of-contents .wrapper ol li.classes > ol,
 	.layout-table-of-contents .wrapper ol li.equipment  > ol,

@@ -1135,8 +1135,8 @@ a[id]{
 }
 
 @media screen and (min-width: 711.11px){
-	.toc-nav-children {
-  	clear: both;
+	.toc-nav-children,
+  .toc-nav-grandchildren {
   	-webkit-column-count: 2;
   	-moz-column-count: 2;
   	column-count: 2;
@@ -1144,12 +1144,6 @@ a[id]{
 
   .toc-nav-child-with-children {
     column-span: all;
-  }
-
-  .toc-nav-grandchildren {
-    -webkit-column-count: 2;
-    -moz-column-count: 2;
-    column-count: 2;
   }
 }
 

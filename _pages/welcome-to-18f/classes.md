@@ -35,7 +35,7 @@ Learn about optional working groups and guilds that work on internal guidelines 
 **When:** Second Monday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#wg-working_groups](https://18f.slack.com/messages/wg-working_groups)
 
-### <a id="performance-plans-OKRs" href="/performance-plans">Performance plans and OKRs</a>
+### <a id="OKRs" href="/objectives-key-results/">OKRs</a>
 
 Everyone at 18F fills out a performance plan and OKRs. Learn how to set yours up and where to go if you need help.
 
@@ -80,7 +80,7 @@ Have a question about health care, leave, retirement, transit, dental, vision, o
 **When:** Every other Tuesday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#benefits](https://18f.slack.com/messages/benefits)
 
-### <a id="blog" href="/intro-to-the-18f-blog">Blogging 101: how to contribute to the 18F website</a>
+### <span id="blog"></span>Blogging 101: how to contribute to the 18F website
 
 18F maintains a blog that talks about our successes, launches, failures, and things we’ve learned. Everyone across 18F is welcome to blog. We’ll hear from a member of the blogging team about the blogging process and what makes a good blog post.
 
@@ -97,7 +97,7 @@ Have a question about health care, leave, retirement, transit, dental, vision, o
 **When:** Every other Wednesday ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#infrastructure](https://18f.slack.com/messages/infrastructure)
 
-### <a id="ops-team" href="/operations">Introduction to the Ops Team</a>
+### <a id="ops-team" href="/ops/">Introduction to the Ops Team</a>
 
 The Ops Team is responsible for legal stuff, travel stuff, and equipment, along with roughly 209 other things. Learn who is on #teamops and what they do at 18F. (Note: this information is conveyed through an email.)
 
@@ -118,12 +118,12 @@ What does 18F Consulting do? Come away with a clear understanding of who works o
 **When:** Second Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
 **Tags:** [#18f-consulting](https://18f.slack.com/messages/18f-consulting)
 
-### <a id="slack-social-media" href="/slack-and-social-media">Slack and social media 101</a>
+### <a id="social-media" href="/social-media/">Social media 101</a>
 
-Overwhelmed by the number of Slack rooms? Not sure how to deal with all of them? And wondering where 18F is on social media, and ways you can talk about your job publicly? We’ll talk about both in this session.
+Wondering where 18F is on social media, and ways you can talk about your job publicly?
 
 **When:** Third Wednesday of the month ([calendar](https://www.google.com/calendar/b/1/embed?src=gsa.gov_vpfql4425bt1kj5fatahokgg94@group.calendar.google.com&ctz=America/New_York)).
-**Tags:** [#admins-slack](https://18f.slack.com/messages/admins-slack), [#tweet-this](https://18f.slack.com/messages/tweet-this), [#outreach](https://18f.slack.com/messages/outreach)
+**Tags:** [#tweet-this](https://18f.slack.com/messages/tweet-this), [#outreach](https://18f.slack.com/messages/outreach)
 
 ### <a id="diversity" href="/intro-to-the-diversity-guild">Diversity and unconscious bias training</a>
 
@@ -180,7 +180,7 @@ You have a friend who wants to join 18F. You’re wondering how recruitment work
 
 ## <a id="fridays">Fridays</a>
 
-### <a id="meet-aaron-phaedra" href="/welcome-from-phaedra-and-aaron">Meet Aaron</a>
+### <a id="meet-aaron" href="/welcome-from-aaron/">Meet Aaron</a>
 
 Aaron is the Executive Director of 18F. During this informal session, he'll talk a little bit about the history of 18F/GSA and how 18F fits into the larger GSA community (and can work with the larger GSA community).
 

@@ -137,7 +137,7 @@ Yes! We don't promise our partners specific people. That enables anyone to scrub
 - Labor is usually the largest portion of the cost of the services 18F provides. Based on our flexible delivery model, you may be working on multiple projects concurrently, and _accurate time accounting_ is critical to generating auditable client invoices.
 - Understanding how people work across multiple projects provides 18F as a whole with insight into areas where we might be over or under capacity.
 - Understanding the actual labor costs required to deliver projects will help us prepare more accurate _cost estimates_ for similar projects in the future.
-- Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](/iaa). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
+- Tracking time spent on a project, and thus labor costs, will allow us to gauge how quickly funds are being spent relative to the allocated amount under the [IAA](/agreements). If a project seems to burning funds quicker than expected, for example, there may be underlying causes (e.g., lost efficiencies) that require attention.
 
 --------------------------------------------------------------------------------
 

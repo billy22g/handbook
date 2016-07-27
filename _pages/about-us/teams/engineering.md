@@ -22,7 +22,7 @@ Welcome to the 18F Engineering team — we’re happy you’re here! We’ve com
 
 ## <a id="checklist">Checklist</a>
 
-Follow the [Engineering checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/dev-new-hire-checklist.md) during your first week. 
+Follow the [Engineering checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/dev-new-hire-checklist.md) during your first week.
 
 Please note that you might not have much assigned work during your first few weeks here. That’s okay and expected. If you’ve gotten all the government onboarding items done and a project _still_ hasn’t landed, the Engineering team has a long list of internal projects that aren’t funded but that will help us work better together. Talk to your faciltator (more on that below) to learn more.
 
@@ -33,7 +33,7 @@ Members of the Engineering team come from all over: major technology companies, 
 
 ### Structure
 
-As per [the org chart](/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team. 
+As per [the org chart](/org-chart), 18F Engineering is itself composed of smaller, “engineering teams,” each organized by a **facilitator.** While most engineers at 18F work in cross-functional _project_ teams, the facilitator engineering teams serve as small communities of practice to encourage cross-pollination that might not otherwise occur in a large, distributed team.
 
 Teams occasionally meet to:
 
@@ -42,7 +42,7 @@ Teams occasionally meet to:
 - Collaboratively solve architecture/programming problems
 - Improve 18F’s hiring (group resume review, interview practice)
 - Engage in discussions and feedback sessions
-- Introduce members to one another! 
+- Introduce members to one another!
 
 [These activities](https://docs.google.com/document/u/1/d/1_NKx-zMwYqBqV48k062j4X2zdhKdYUgYlnM3wMpn5p8/edit) are largely meant to increase cohesion across Engineering.
 
@@ -95,7 +95,7 @@ Engineering also has five functional leads: backend, frontend, operations, secur
 
 All 18F staff track their time in [Tock](https://tock.18f.gov/). Time sheets for the previous week are due at the end of the day (COB in your time zone) each Monday. Learn more in the [Tock guide](/tock/).
 
-While cost recovery is an important organizational goal, internal, non-billable work is important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours. 
+While cost recovery is an important organizational goal, internal, non-billable work is important as well. Engineers needn't worry about how many billable hours they work, but rather how many project hours.
 
 ### I’m interested in working on a different or additional project. How can I do that?
 
@@ -103,12 +103,12 @@ Your facilitator is responsible for making sure you have the right amount and ki
 
 - Review projects in the [staffing-and-resources repository](https://github.com/18F/staffing-and-resources/issues). The issue threads will have lots of extraneous information, but look for issues tagged with the Engineering chapter. If you find a project you're interested in, comment on the issue or talk to your facilitator.
 - Look out for Project Q&A invites in your inbox and on the 18F Events calendar. These sessions get together product/engagement leads from projects in need of engineers. They will give you some information on the project and a chance to ask questions.
-- Watch the #eng-projects channel in Slack. 
-- Talk to your facilitator. 
+- Watch the #eng-projects channel in Slack.
+- Talk to your facilitator.
 
 ### How can I become an interviewer or resume reviewer?
 
-Thanks for wanting to participate in hiring! In order to review resumes, GSA requires that you be a Subject Matter Expert (SME), which involves a small amount of training. You don't need to be a SME to be an interviewer. 
+Thanks for wanting to participate in hiring! In order to review resumes, GSA requires that you be a Subject Matter Expert (SME), which involves a small amount of training. You don't need to be a SME to be an interviewer.
 
 To do either or both, please get in touch with [Esther Chang](https://18f.slack.com/team/esther).
 
@@ -155,13 +155,11 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ## Mailing lists
 
-  - 18F-dev@gsa.gov. You’ll most likely get added automatically — no need to worry about registering. 
-  - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#heading-20), [Security Today](/general-contacts-and-listservs/#heading-21).
+  - 18F-dev@gsa.gov. You’ll most likely get added automatically — no need to worry about registering.
+  - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
 
 ## Tools
 
 Here are some [common tools we use](/#tools), how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
 And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://docs.google.com/spreadsheets/d/1nrdfmL8DNjRJb45N3QZjvX8TeIcHth3Cy0rO5jVIvKo/edit#gid=1) of approved tools. If what you want to use isn’t there, you’ll need to ask [#infrastructure](https://18f.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
-
-

@@ -21,7 +21,7 @@ Note: The titles below are linked to our handbook pages for each subject. Descri
 
 ### Wednesday
 * [Introduction to the Infrastructure Team](/intro-to-18f-infrastructure) ([Description](/classes/#infrastructure-team)), Noah Kunin
-* Slack DM: [Introduction to the Ops Team](/operations) ([Description](/classes/#ops-team)), Patrick Bateman
+* Slack DM: [Introduction to the Ops Team](/ops/) ([Description](/classes/#ops-team)), Patrick Bateman
 * Email: [Introduction to the Talent Team](/talent) ([Description](/classes/#talent-team)), Jen Tress
 * [Equipment and useful government websites](/gsa-tools-equipment-and-transit) ([Description](/classes/#equipment)), Leah Gitter
 
@@ -47,7 +47,7 @@ In your second week, you’ll participate in unconscious bias training, learn ho
 * [Professional development, conferences, speaking opportunities, and IDPs](/professional-development-and-training) ([Description](/classes/#professional-development)), Pia Scott
 
 ### Friday
-* [Welcome from Aaron](/welcome-from-aaron/) ([Description](/classes/#meet-aaron-phaedra)), Aaron Snow
+* [Welcome from Aaron](/welcome-from-aaron/) ([Description](/classes/#meet-aaron)), Aaron Snow
 
 ## <a name="week-3"></a>Week 3
 Your third week of training is relatively short. You’ll learn about accessibility and the tools we use to run successful meetings (many of which you’ve probably seen by now).
@@ -68,7 +68,7 @@ In your fourth week, you’ll learn about writing for the 18F blog and participa
 _No classes are scheduled for this day_
 
 ### Tuesday
-* [Introduction to Outreach and the blog](/outreach) ([Description](/classes/#heading-12)), Andre Francisco
+* [Introduction to Outreach and the blog](/outreach) ([Description](/classes/#blog)), Andre Francisco
 * [Working groups and guilds](/working-groups-and-guilds-101) ([Description](/classes/#groups-guilds-guides)), Emileigh Barnes and Carlo Costino
 
 ### Wednesday
@@ -83,10 +83,10 @@ This will be your last week of training (though you’re always welcome to come 
 ### Monday
 * [Introduction to the Design Team](/design) ([Description](/classes/#design-team)), Russ Unger
 * [Introduction to the Writing Lab](/intro-to-writing-lab) ([Description](/classes/#writing-labs)), Kate Garklavs and Emileigh Barnes
-* [Objectives and key results (OKRs)](/objectives-key-results/) ([Description](/classes/#performance-plans-OKRs)), Colin MacArthur, Nick Brethauer, Michelle Hertzfeld
+* [Objectives and key results (OKRs)](/objectives-key-results/) ([Description](/classes/#OKRs)), Colin MacArthur, Nick Brethauer, Michelle Hertzfeld
 
 ### Wednesday
-* [Slack and social media 101](/slack-and-social-media) ([Description](/classes/#slack-social-media)), Melody Kramer
+* [Social media 101](/slack) ([Description](/classes/#social-media)), Melody Kramer
 
 ### Friday
 * [Introduction to the Product Team and open source software](/intro-to-product-and-open-source) ([Description](/classes/#product-team)), Gray Brooks

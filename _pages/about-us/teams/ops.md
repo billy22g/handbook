@@ -2,7 +2,7 @@
 title: Ops
 ---
 
-_Team Ops handles all activities related to travel, non-travel purchases, legal matters, and equipment requests._
+_Team Ops (Operations) handles all activities related to travel, non-travel purchases, legal matters, and equipment requests._
 
 Because 18F is a distributed team, it’s likely there’s some **travel** in your future. We’re here to help, and the best place to start is in [#travel](https://18f.slack.com/messages/travel), where [Victor Valdiviezo](https://18f.slack.com/messages/@vv) and [Ethan Heppner](https://18f.slack.com/messages/@eth) can help you vanquish the government travel monster (including getting a GSA-issued travel credit card to get reimbursed for expenses).
 

@@ -23,7 +23,7 @@ You can change your avatar across Google Apps even though Google+ profile editin
 
 ## <a id="setup">Tips</a>
 
-- You can [add a Hangout](/google-calendar/#how-do-i-add-a-video-call-to-my-calendar-invite) to Google Calendar invites.
+- You can [add a Hangout](/google-calendar/#tips) to Google Calendar invites.
 
 - You can start a hangout from Slack by typing `/hangout`.
 

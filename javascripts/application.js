@@ -114,10 +114,31 @@ $(document).ready(function() {
 
 document.addEventListener('DOMContentLoaded', function() {
   PrivateEye({
-    // list of URLs to match as substrings – can be full URLs, hostnames, etc.
+    defaultMessage: "This link is private to 18F.",
+    // see also: https://github.com/18F/guides-style/blob/master/assets/js/18f-guide.js
     ignoreUrls: [
-      'docs.google.com'
-      // ...
+      '18f.slack.com',
+      'anywhere.gsa.gov',
+      'bookit.gsa.gov',
+      'calendar.gsa.gov',
+      'docs.google.com',
+      'drive.google.com',
+      'email.gsa.gov',
+      'github.com/18F/Accessibility_Reviews',
+      'github.com/18F/blog-drafts',
+      'github.com/18F/codereviews',
+      'github.com/18F/DevOps',
+      'github.com/18F/Infrastructure',
+      'github.com/18F/staffing-and-resources',
+      'github.com/18F/team-api.18f.gov',
+      'github.com/18F/writing-lab',
+      'gkey.gsa.gov',
+      'gsa.my.salesforce.com',
+      'hub.18f.gov',
+      'insite.gsa.gov',
+      'mail.gsa.gov',
+      'pages-internal.18f.gov',
+      'tock.18f.gov'
     ]
   });
 }, false );

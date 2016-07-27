@@ -42,6 +42,8 @@ Include the following:
 
 **[Turn notifications on](https://github.com/settings/notifications)** and adjust the settings as needed. Some people watch every repo; others only watch when they're mentioned.
 
+You will get a lot of emails when you turn notifications on. To help stem the tide, you can set up a Gmail filter to automatically archive emails from `notifications@github.com`. However, you probably want to let through those emails which contain your GitHub username or are posted to a repo you're watching. Since on GitHub, each repo is considered it's own mailing list, checking for that identifier is one reliable way to allow these notifications through. For example, if the repo name in GitHub is `18F/calc`, the mailing list will be `calc.18F.github.com`. You can also find this by opening an email from the desired repo, clicking the "more info" arrow in the To field, and copying the bracketed address in the "mailing list" field. Adding `list:(calc.18F.github.com)` to your filter's exceptions will allow any issues posted to that repo to reach your inbox.
+
 ### 4. Join the 18F organization
 
 After you&rsquo;ve enabled 2FA and added your government email address to your profile, hop into [#admins-github](https://18f.slack.com/messages/admins-github/) on Slack and **post the following**: "I've enabled two-factor authentication – please add me (`@username`) to https://github.com/orgs/18F/teams/18f on GitHub." An admin will add you, after which you&rsquo;ll need to accept their invite by going [here](https://github.com/orgs/18F/invitation?via_email=1).
